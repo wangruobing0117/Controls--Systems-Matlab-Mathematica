@@ -1,2 +1,2 @@
 # Controls--Systems-Matlab-Mathematica
-This repository contains Control System Designed using Matlab and Mathematica.
+This repository contains Control Systems designed using Matlab and Mathematica.
